@@ -3,3 +3,5 @@
 # Project exclude paths
 /project/project/target/
 /project/target/
+/.bsp/
+/.idea/
